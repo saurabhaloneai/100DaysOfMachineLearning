@@ -1,8 +1,8 @@
 # 100DaysOfMachineLearning
-I will be sharing my journey of this challenge.
-##100daysofcode
 
-Welcome !!!   Here **Saurabh Alone** & I will be sharing whatever the code I write through this 100Days Of Code Challenge.
+
+
+Welcome !!!   Here **Saurabh Alone** & I will be sharing whatever the code I write through this 100DaysMachineLearning Challenge.
 
 <h1>Timeline</h1>
 
