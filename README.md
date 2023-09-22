@@ -9,7 +9,7 @@ Welcome !!!   Here **Saurabh Alone** & I will be sharing whatever the code I wri
 |**Day :pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Day 1|sep 21, 2023| DL Fundamental UNit-1,2 | [Course_link](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-7-seeing-predictive-models-as-computation-graphs/)|
-|Day 2|sep 22, 2023|
+|Day 2|sep 22, 2023| DL Fundamental UNit-3,4| [Course_link](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-7-seeing-predictive-models-as-computation-graphs/)|
 |Day 3|sep 23, 2023|
 |Day 4|sep 24, 2023|
 |Day 5|Sep 25, 2023|
